@@ -1,0 +1,11 @@
+
+.box-container{
+    width: 100vw;
+display: flex;
+height: 2.9rem;
+flex-wrap: wrap;
+/* flex-direction:; */
+}
+.box{
+    width: 2em;
+}
