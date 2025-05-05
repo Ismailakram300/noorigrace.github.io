@@ -3,6 +3,7 @@
     max-width: 82em;
     position: relative;
     margin: auto;
+    padding: auto;
     z-index: 1 ; }
   
   /* Hide the images by default */
