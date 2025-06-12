@@ -9,7 +9,6 @@ if(isset($message)){
       
       ';
    }
-   
 }
 ?>
 
