@@ -7,7 +7,7 @@ if(isset($message)){
          <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
          
       </div>
-      
+  
       ';
    }
 }
