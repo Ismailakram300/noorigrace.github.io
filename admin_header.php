@@ -6,6 +6,7 @@ if(isset($message)){
       <div class="message">
          <span>'.$message.'</span>
          <i class="fas fa-times" onclick="this.parentElement.remove();"></i>
+         
       </div>
       
       ';
